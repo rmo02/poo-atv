@@ -1,5 +1,3 @@
-package questao03;
-
 import java.util.InputMismatchException;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
