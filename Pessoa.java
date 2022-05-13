@@ -1,6 +1,3 @@
-package questao03;
-
-
 public class Pessoa {
 
     private int idade;
